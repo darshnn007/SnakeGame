@@ -53,3 +53,9 @@ To compile and run this game, follow the instructions
     SnakeGame.exe
     ```
     
+
+## Team Vipers 
+1. Darshan Tita - 202401485
+2. Dev Maradiya - 202401432
+3. Vikas Rathod - 202401179
+4. Om Shiloja - 202401201
